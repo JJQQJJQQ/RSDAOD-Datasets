@@ -31,6 +31,7 @@ datasets/
 │   └── coco/
 ├── HRRSD/
 │   └── coco_10c/
+│   └── coco_ship/
 ├── NWPU_VHR_10/
 │   └── coco/
 ├── VEDAI/
@@ -39,11 +40,10 @@ datasets/
     └── coco/
 ```
 
-## Notes
-
-- The source code of the RSDAOD project is currently kept private.
-- For dataset annotation formats and preprocessing details, please refer to the official RSDAOD repository (private) or contact the authors.
-
 ## License
 
 These datasets are derived from publicly available remote sensing datasets. Please refer to the original licenses of each dataset for usage terms.
+
+## Acknowledgements
+We would like to express our gratitude to all researchers who made the benchmark datasets publicly available for this study. Specifically, we thank Li et al. for the DIOR dataset, Cheng et al. for the NWPU VHR-10 dataset, Razakarivony and Jurie for the VEDAI dataset, Y. Zhang et al. for the HRRSD dataset, and J. Li et al. for the SSDD dataset. These high-quality datasets are of great value for validating the proposed method and promoting the research progress of cross-domain remote sensing object detection.
+

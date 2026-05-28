@@ -1,6 +1,6 @@
-# SASCAN Datasets
+# RSDAOD Datasets
 
-This repository contains the cross-domain object detection datasets used in the **SASCAN** project for remote sensing imagery.
+This repository contains the cross-domain object detection datasets used in the **RSDAOD** project for remote sensing imagery.
 
 ## Download
 
@@ -41,8 +41,8 @@ datasets/
 
 ## Notes
 
-- The source code of the SASCAN project is currently kept private.
-- For dataset annotation formats and preprocessing details, please refer to the official SASCAN repository (private) or contact the authors.
+- The source code of the RSDAOD project is currently kept private.
+- For dataset annotation formats and preprocessing details, please refer to the official RSDAOD repository (private) or contact the authors.
 
 ## License
 
